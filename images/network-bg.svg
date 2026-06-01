@@ -1,0 +1,79 @@
+<svg width="1600" height="700" viewBox="0 0 1600 700" xmlns="http://www.w3.org/2000/svg">
+
+  <g opacity="0.2">
+
+    <!-- Horizontal dashed paths -->
+    <line x1="0" y1="180" x2="1600" y2="180"
+          stroke="#0D7680"
+          stroke-width="2"
+          stroke-dasharray="12 12"/>
+
+    <line x1="350" y1="320" x2="1250" y2="320"
+          stroke="#0D7680"
+          stroke-width="2"
+          stroke-dasharray="12 12"/>
+
+    <!-- Connectors -->
+    <line x1="280" y1="180" x2="400" y2="320"
+          stroke="#0D7680"
+          stroke-width="2"
+          stroke-dasharray="12 12"/>
+
+    <line x1="1320" y1="180" x2="1200" y2="320"
+          stroke="#0D7680"
+          stroke-width="2"
+          stroke-dasharray="12 12"/>
+
+    <!-- Decorative circuit lines -->
+    <path d="M50 160 H200 L320 280 H700 L900 140 H1450"
+          stroke="#0D7680"
+          stroke-width="4"
+          fill="none"/>
+
+    <path d="M20 500 H400 L550 650"
+          stroke="#0D7680"
+          stroke-width="4"
+          fill="none"/>
+
+    <path d="M900 200 L1100 420 H1550"
+          stroke="#0D7680"
+          stroke-width="4"
+          fill="none"/>
+
+    <!-- Hexagon 1 -->
+    <polygon
+      points="100,130 130,100 170,100 200,130 170,160 130,160"
+      stroke="#0D7680"
+      stroke-width="4"
+      fill="none"/>
+
+    <!-- Hexagon 2 -->
+    <polygon
+      points="1350,130 1380,100 1420,100 1450,130 1420,160 1380,160"
+      stroke="#0D7680"
+      stroke-width="4"
+      fill="none"/>
+
+    <!-- Hexagon 3 -->
+    <polygon
+      points="220,430 250,400 290,400 320,430 290,460 250,460"
+      stroke="#0D7680"
+      stroke-width="4"
+      fill="none"/>
+
+    <!-- Hexagon 4 -->
+    <polygon
+      points="1220,520 1250,490 1290,490 1320,520 1290,550 1250,550"
+      stroke="#0D7680"
+      stroke-width="4"
+      fill="none"/>
+
+    <!-- Nodes -->
+    <circle cx="130" cy="130" r="8" fill="#0D7680"/>
+    <circle cx="1400" cy="130" r="8" fill="#0D7680"/>
+    <circle cx="270" cy="430" r="8" fill="#0D7680"/>
+    <circle cx="1270" cy="520" r="8" fill="#0D7680"/>
+
+  </g>
+
+</svg>
